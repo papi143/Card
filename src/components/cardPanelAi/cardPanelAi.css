@@ -1,0 +1,17 @@
+.Card_Panel_Defend__Ai {
+  padding:20px;
+  border:1px solid black;
+  font-size: 20px;
+  margin:0 30px;
+  cursor:pointer;
+  border-radius:5px;
+}
+.Card_Panel_Defend__Ai:hover{
+  background-color: rgb(102, 181, 118);
+}
+.Card_Panel_Ai{
+  padding:0 100px;
+  display:flex;
+  justify-content: center;
+  margin:10px 0 100px;
+}
